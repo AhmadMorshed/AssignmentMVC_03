@@ -1,0 +1,15 @@
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company.Repository.AssemblyInfoInputs.cache
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company.Repository.AssemblyInfo.cs
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\bin\Debug\net6.0\Company.Repository.deps.json
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\bin\Debug\net6.0\Company.Repository.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\bin\Debug\net6.0\Company.Repository.pdb
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\bin\Debug\net6.0\Company.Data.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\bin\Debug\net6.0\Company.Data.pdb
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company.Repository.csproj.AssemblyReference.cache
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company..98502CC8.Up2Date
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company.Repository.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\refint\Company.Repository.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\Company.Repository.pdb
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Company.Web\Company.Repository\obj\Debug\net6.0\ref\Company.Repository.dll
